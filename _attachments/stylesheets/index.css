@@ -1,0 +1,24 @@
+#welcome {
+	padding : 10px;
+}
+
+#logo {
+	margin-top : 10px;
+	font-size : 40px;
+	font-family : fantasy, comic sans ms, cursive;
+	color: #5F81AF;
+	font-style: italic;	
+}
+
+#about {
+	margin-top : 50px;
+}
+
+#fbconnect {
+	margin-top : 100px;
+}
+
+.description {
+	font-size : 15px;
+	color : #666;
+}
